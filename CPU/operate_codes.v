@@ -1,0 +1,12 @@
+// operate codes.v
+`define CALCULATE   0110011
+`define CALCULATEI  0010011
+`define LUI         0110111
+`define AUIPC       0010111
+`define BRANCH      1100011
+`define JAL         1101111
+`define JALR        1100111
+`define FENCE       0001111
+`define CSR         1110011
+`define LOAD        0000011
+`define STORE       0100011
